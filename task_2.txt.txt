@@ -1,0 +1,37 @@
+((\s|<)(o|O)\S+@\w*\.\S+)(\S)
+34
+outlook.team@enron.co - outlook.team@enron.com 
+Outlook.2000@enron.co - Outlook.2000@enron.com 
+<OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com - <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com> 
+<orourke.john@epenergy.com> - <orourke.john@epenergy.com>, 
+off-yild@zdemail.zdlists.com. 
+on-yild@zdemail.zdlists.co - on-yild@zdemail.zdlists.com 
+owner-strawbale@crest.or - owner-strawbale@crest.org 
+owner-strawbale@crest.or - owner-strawbale@crest.org 
+owner-strawbale@crest.or - owner-strawbale@crest.org 
+owner-strawbale@crest.or - owner-strawbale@crest.org 
+outlook.team@enron.co - outlook.team@enron.com 
+Outlook.2000@enron.co - Outlook.2000@enron.com 
+<OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com - <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com> 
+<orourke.john@epenergy.com> - <orourke.john@epenergy.com>, 
+outlook-migration-team@enron.co - outlook-migration-team@enron.com 
+outlook-migration-team@enron.co - outlook-migration-team@enron.com 
+ove@commissioner.co - 
+ove@commissioner.com 
+online.service@schwab.co - online.service@schwab.com 
+<online.service@schwab.com>@ENRO - <online.service@schwab.com>@ENRON 
+oscar.dalton@enron.com - oscar.dalton@enron.com, 
+open2win.0ll1.net@mailman.enron.co - open2win.0ll1.net@mailman.enron.com 
+<open2win.0ll1.net@mailman.enron.com>@ENRO - <open2win.0ll1.net@mailman.enron.com>@ENRON 
+oportunity@cells4free.co - oportunity@cells4free.com 
+<oportunity@cells4free.com>@ENRO - <oportunity@cells4free.com>@ENRON 
+off-yild@zdemail.zdlists.com - 
+off-yild@zdemail.zdlists.com. 
+on-yild@zdemail.zdlists.co - on-yild@zdemail.zdlists.com 
+owner-strawbale@crest.or - owner-strawbale@crest.org 
+owner-strawbale@crest.or - owner-strawbale@crest.org 
+owner-strawbale@crest.or - owner-strawbale@crest.org 
+<orourke.john@epenergy.com> - <orourke.john@epenergy.com> 
+owner-strawbale@crest.or - owner-strawbale@crest.org 
+<OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com - <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com> 
+Outlook.2000@enron.co - Outlook.2000@enron.com
